@@ -151,7 +151,7 @@ def init_components(
         example_validator,
         transform,
         trainer,
-        pusher
+        pusher,
     )
 
     return components
